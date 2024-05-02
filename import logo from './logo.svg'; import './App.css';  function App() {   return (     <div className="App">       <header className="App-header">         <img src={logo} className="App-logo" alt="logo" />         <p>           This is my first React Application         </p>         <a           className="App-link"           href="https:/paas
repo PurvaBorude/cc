@@ -1,0 +1,10 @@
+Steps :
+Login to the AWS console
+Find for AWS Amplify in the services.
+Get Started with Amplify service.
+Click on Host a Web App.
+Then choose to launch it with Github and authenticate your GitHub account for the same..
+After that choose the Repository containing your source code ( subfolder if needed)
+Then Launch the application with the default configurations provided by AWS Amplify
+Configurations may be different on type of framework / technology you are launching your application ( REACT is my case ).
+Done..!! You have launched your app successfully
